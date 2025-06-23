@@ -1,0 +1,8 @@
+TextField:
+name,password,email,phone
+checkbox:courses
+date picker:dob
+text area:Adress
+dropdown:state,city
+upload:picture
+submit,reset button
